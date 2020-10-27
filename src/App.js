@@ -12,7 +12,7 @@ key: propriedade que veicula a informação unica. como o nome, titulo ou id de 
 */
 
 import React, { useState } from 'react';
-
+import './App.css';
 import Header from './components/Header';
 
 function App() {
